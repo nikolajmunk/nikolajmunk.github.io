@@ -1,9 +1,7 @@
-# No price/price unknown
-uden pris:
-    - title: Forklæde
-    
 # <250
 lt250kr:
+    - title: Forklæde
+    
     - title: Wacom Intuos S-tegneplade med Bluetooth
       image: https://www.elgiganten.dk/image/dv_web_D18000100276968/WACCTL4100LKN/wacom-intuos-s-bluetooth-tegneplade-sort.jpg
       link:
