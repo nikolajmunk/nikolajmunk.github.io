@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wishlist
+title: Nikos ønskeseddel
 enable_charities: false
 ---
 * TOC
