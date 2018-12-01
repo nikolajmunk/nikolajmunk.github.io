@@ -14,6 +14,7 @@ lt1000kr:
       link:
         elgiganten: https://www.elgiganten.dk/product/pc-tablets/andet-computertilbehor/WACCTL4100LKN/wacom-intuos-s-bluetooth-tegneplade-sort
     - title: Logitech Marathon 705-mus
+      hidden: true
       image: https://www.elgiganten.dk/image/dv_web_D18000100293525/LTM705/logitech-m705.jpg
       price: "429"
       link:
