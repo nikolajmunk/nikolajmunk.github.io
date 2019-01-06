@@ -3,17 +3,22 @@ lt250kr:
     - title: Skægolie
       bought: true
     - title: Forklæde
+      bought: true
       image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/15/10/rs-hubbard-acorn-aprons.jpg
     - title: Whiskey (ikke alt for fancy)
+      bought: true
       image: https://frullato.ru/wp-content/uploads/2018/03/gettyimages-462718652.jpg
     - title: Øloplukker til min nøglering (heller ikke alt for fancy)
+      bought: true
       image: https://i.imgur.com/bw7g5RG.png
     - title: Skægolie
+      bought: true
       image: https://assets.reviews.com/uploads/2017/04/05050212/REVW2075.jpg
     
 #<1000
 lt1000kr:
     - title: Wacom Intuos S-tegneplade med Bluetooth
+      bought: true
       image: https://www.elgiganten.dk/image/dv_web_D18000100276968/WACCTL4100LKN/wacom-intuos-s-bluetooth-tegneplade-sort.jpg
       price: "799"
       link:
@@ -24,6 +29,7 @@ lt1000kr:
       link:
         elgiganten: https://www.elgiganten.dk/product/pc-tablets/mus-tastatur/LTM705/logitech-m705
     - title: Seagate Slim Backup Plus 2TB (farve ligegyldig)
+      bought: true
       image: https://www.mwave.com.au/images/400/AB53378_3.jpg
       price: "999"
       link:
