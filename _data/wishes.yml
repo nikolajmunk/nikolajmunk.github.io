@@ -5,8 +5,7 @@ lt250kr:
     - title: Forklæde
       bought: true
       image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/15/10/rs-hubbard-acorn-aprons.jpg
-    - title: Whiskey (ikke alt for fancy)
-      bought: true
+    - title: Mere whiskey (ikke alt for fancy)
       image: https://frullato.ru/wp-content/uploads/2018/03/gettyimages-462718652.jpg
     - title: Øloplukker til min nøglering (heller ikke alt for fancy)
       bought: true
@@ -14,6 +13,13 @@ lt250kr:
     - title: Skægolie
       bought: true
       image: https://assets.reviews.com/uploads/2017/04/05050212/REVW2075.jpg
+    - title: Bidrag til løbesko
+      image: https://cms-static.asics.com/media-libraries/2849/file.png
+    - title: Biografture, caféture, middage, alt det halløj.
+      image: https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2357642.jpg
+    - title: En god skruetrækker
+      image: https://www.fotoagent.dk/single_picture/10485/138/mega/be-8600.jpg
+      
     
 #<1000
 lt1000kr:
@@ -25,6 +31,8 @@ lt1000kr:
       price: "799"
       link:
         elgiganten: https://www.elgiganten.dk/product/pc-tablets/andet-computertilbehor/WACCTL4100LKN/wacom-intuos-s-bluetooth-tegneplade-sort
+    - title: Bidrag til nye løbesko
+      image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYFS4nfopv5ZClUmT-_7pY8KpyV0gq-Mu7TJjYpG5Hd288l41F
     - title: Logitech Marathon 705-mus
       image: https://www.elgiganten.dk/image/dv_web_D18000100293525/LTM705/logitech-m705.jpg
       price: "429"
