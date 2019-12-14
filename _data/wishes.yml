@@ -13,7 +13,7 @@ Diverse:
     
 #<1000
 Gear og grej og elektronik:
-    - title: Skullcandy Sesh trådløse hovedtelefoner [helst i sort]
+    - title: "Skullcandy Sesh trådløse hovedtelefoner (helst i sort)"
       image: https://www.proshop.dk/Images/915x900/2795562_549393c32028.jpg
       link:
         proshop: https://www.proshop.dk/Hovedtelefonerheadset/Skullcandy-Sesh-Sort/2795562
@@ -38,10 +38,10 @@ Gear og grej og elektronik:
 
 Bøger:
     - title: 101 Things I Learned in Architecture School af Matthew Frederick
-    link:
-       saxo: https://www.saxo.com/dk/101-things-i-learned-in-architecture-school_matthew-frederick_hardback_9780262062664
-    image: https://imgcdn.saxo.com/_9780262062664/0x500
+      link:
+         saxo: https://www.saxo.com/dk/101-things-i-learned-in-architecture-school_matthew-frederick_hardback_9780262062664
+      image: https://imgcdn.saxo.com/_9780262062664/0x500
     
     - title: The Design of Everyday Things af Donald Normal
-    image: https://www.pricerunner.dk/product/640x640/1577333820/The-Design-of-Everyday-Things-(Pocket-2013)--Pocket.jpg?c=0.6
+      image: https://www.pricerunner.dk/product/640x640/1577333820/The-Design-of-Everyday-Things-(Pocket-2013)--Pocket.jpg?c=0.6
     
