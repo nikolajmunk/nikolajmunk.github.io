@@ -13,6 +13,12 @@ Diverse:
     
 #<1000
 Gear og grej og elektronik:
+    - title: Skullcandy Sesh trådløse hovedtelefoner (sort)
+      image: https://www.proshop.dk/Images/915x900/2795562_549393c32028.jpg
+      link:
+        proshop: https://www.proshop.dk/Hovedtelefonerheadset/Skullcandy-Sesh-Sort/2795562
+        av-cables: https://www.av-cables.dk/bluetooth-hoeretelefoner/skullcandy-earbuds-sesh-true-wireless-sort.html
+        wupti: https://www.wupti.com/produkter/tv-og-hifi/hoeretelefoner/in-ear/skullcandy-sesh-aegte-traadloe-01034024
     - title: Philips Somneo vækningslys HF3672/01
       image: https://media.power-cdn.net/images/h-dbb02678cb34b8032238de2e9ba83739/products/953816/953816_4_900x900_w_g.webp
       link:
@@ -25,7 +31,7 @@ Gear og grej og elektronik:
       price: "799"
       link:
         elgiganten: https://www.elgiganten.dk/product/pc-tablets/andet-computertilbehor/WACCTL4100LKN/wacom-intuos-s-bluetooth-tegneplade-sort
-     - title: USB C-oplader eller -kabel
+    - title: USB C-oplader eller -kabel
        image: https://www.batteribyen.dk/media/catalog/product/cache/4/image/630x/9df78eab33525d08d6e5fb8d27136e95/5/8/58874.jpg
     
 
